@@ -7,4 +7,4 @@
 \f0\fs24 \cf0 learning git version\
 i have some change first\
 i have some change second\
-i have create and and and  a branch}
+i have create and and and \'97\'97\'97\'97\'97\'97\'97\'97\'97 a branch}
